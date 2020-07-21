@@ -12,7 +12,7 @@ public class Main {
         System.out.println(strInpCalc);
 
         // удалить пробелы проверить на допустимость ввод
-
+//
         //System.out.println(strInpCalc.toUpperCase());
     }
 }
